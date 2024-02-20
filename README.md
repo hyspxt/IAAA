@@ -1,7 +1,7 @@
 # Description
 This repo contains files for "Introduzione all'Apprendimento Automatico" project - 93319 course (aka Machine Learning), Bachelor Degree in Computer Science, UniBo. 
 In this case, our task was to create, train, and test a neural network (NN) model to solve an impainting problem on some instances of randomly masked satellite imagery. 
-The model was to be developed entirely in 'Keras/Tensorflow' as a costraints.
+The model was to be developed entirely in `Keras/Tensorflow` as a costraints.
 Given the nature of the problem, we opted for a convolutional type network, specifically following an encoder-decoder structure. More info in .iypnb notebooks.
 
 
