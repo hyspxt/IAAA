@@ -10,6 +10,7 @@ Aside from Keras, there is an extensive list of necessary imports in the first c
 
 ## Building, Running and Testing
 You can simply run each cell code with ease in Google Colab in cloud or on you're machine with Jupyter Notebook, and that's it.
+
 <a target="_blank" href="https://colab.research.google.com/github/hyspxt/IAAA/blob/main/PatrickAlfieri.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
