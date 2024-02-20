@@ -6,7 +6,7 @@ Given the nature of the problem, we opted for a convolutional type network, spec
 
 
 ## Dependencies
-Aside from Keras, there is an extensive list of necessary imports in the first code cell in PatrickAlfieri.iypnb. 
+Aside from `Keras`, there is an extensive list of necessary imports in the first code cell in `PatrickAlfieri.iypnb`. 
 
 ## Building, Running and Testing
 You can simply run each cell code with ease in Google Colab in cloud or on you're machine with Jupyter Notebook, and that's it.
